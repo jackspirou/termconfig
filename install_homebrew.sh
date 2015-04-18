@@ -2,7 +2,7 @@
  
 #
 # install:
-#   curl -sL https:/raw.github.com/gist/2108403/hack.sh | sh
+#   curl -sL https://raw.githubusercontent.com/initcgf/yosemite/master/install_homebrew.sh | bash
 #
 
 echo "Installing homebrew - http://brew.sh"
