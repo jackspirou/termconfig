@@ -7,4 +7,10 @@
 
 echo "installing oh-my-zsh - http://ohmyz.sh"
 
-curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
+if [ ! -n "$ZSH" ]; then
+  ZSH=~/.oh-my-zsh
+fi
+
+if [ ! -d "$ZSH" ]; then
+  curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
+fi
