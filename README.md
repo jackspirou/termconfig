@@ -1,6 +1,15 @@
 Yosemite
 =======
+
+The initcfg Yosemite bootstrap makes the terminal to look like this: 
+
 ![](https://raw.githubusercontent.com/initcfg/yosemite/master/imgs/screenshot-no-command.png)
+
+It is built on:
+- zsh
+- oh-my-zsh
+- solarized
+- Font Iconsolata
 
 ![](https://raw.githubusercontent.com/initcfg/yosemite/master/imgs/screenshot-battery-full.png)
 
