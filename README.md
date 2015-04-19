@@ -11,6 +11,10 @@ It is built on:
 - solarized
 - Font Iconsolata
 
+It also installs:
+- google chrome
+- atom
+
 ![](https://raw.githubusercontent.com/initcfg/yosemite/master/imgs/screenshot-battery-full.png)
 
 ![](https://raw.githubusercontent.com/initcfg/yosemite/master/imgs/screenshot-master-red.png)
