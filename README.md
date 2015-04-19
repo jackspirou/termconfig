@@ -6,6 +6,8 @@ Yosemite
 
 ![](https://raw.githubusercontent.com/initcfg/yosemite/master/imgs/screenshot-master-red.png)
 
+![](https://raw.githubusercontent.com/initcfg/yosemite/master/imgs/screenshot-untracked-files.png)
+
 
 Sources:
 - http://code.tutsplus.com/tutorials/how-to-customize-your-command-prompt--net-24083
