@@ -7,9 +7,9 @@ The initcfg Yosemite bootstrap configures the terminal to look like so:
 
 It is built on:
 - zsh
-- oh-my-zsh
 - solarized
-- Font Iconsolata
+- oh-my-zsh
+- Iconsolata Font
 
 It also can install:
 - google chrome
