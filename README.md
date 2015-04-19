@@ -12,11 +12,11 @@ It is built on:
 - Iconsolata Font
 
 It also installs:
+- homebrew (needed for terminal setup)
+- wget (needed for terminal setup)
 - google chrome (optional)
 - iTerm2 (optional)
 - atom (optional)
-- homebrew
-- wget
 
 # ScreenShots
 
