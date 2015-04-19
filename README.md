@@ -1,7 +1,7 @@
 Yosemite
 =======
 
-The initcfg Yosemite bootstrap makes the terminal to look like this: 
+The initcfg Yosemite bootstrap configures the terminal to look like so: 
 
 ![](https://raw.githubusercontent.com/initcfg/yosemite/master/imgs/screenshot-no-command.png)
 
