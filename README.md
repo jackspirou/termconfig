@@ -15,6 +15,8 @@ It also installs:
 - google chrome
 - atom
 
+# ScreenShots
+
 ![](https://raw.githubusercontent.com/initcfg/yosemite/master/imgs/screenshot-battery-full.png)
 
 ![](https://raw.githubusercontent.com/initcfg/yosemite/master/imgs/screenshot-master-red.png)
