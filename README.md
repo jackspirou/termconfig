@@ -11,11 +11,12 @@ It is built on:
 - oh-my-zsh
 - Iconsolata Font
 
-It also can install:
-- google chrome
-- homebrew
-- iTerm2
-- atom
+It also installs:
+- homebrew (needed for terminal setup)
+- wget (needed for terminal setup)
+- google chrome (optional)
+- iTerm2 (optional)
+- atom (optional)
 
 # ScreenShots
 
