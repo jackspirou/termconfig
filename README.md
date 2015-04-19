@@ -25,6 +25,8 @@ It also installs:
 
 ![](https://raw.githubusercontent.com/initcfg/yosemite/master/imgs/screenshot-add-files.png)
 
+![](https://raw.githubusercontent.com/initcfg/yosemite/master/imgs/screenshot-no-command.png)
+
 
 Sources:
 - http://code.tutsplus.com/tutorials/how-to-customize-your-command-prompt--net-24083
