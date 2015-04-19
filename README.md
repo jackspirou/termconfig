@@ -1,5 +1,8 @@
 Yosemite
 =======
+![battery-full](https://raw.githubusercontent.com/initcfg/yosemite/master/imgs/screenshot-no-command.png)
+
+![battery-full](https://raw.githubusercontent.com/initcfg/yosemite/master/imgs/screenshot-battery-full.png)
 
 
 Sources:
