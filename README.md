@@ -11,7 +11,7 @@ It is built on:
 - solarized
 - Font Iconsolata
 
-It also installs:
+It also can install:
 - google chrome
 - homebrew
 - iTerm2
