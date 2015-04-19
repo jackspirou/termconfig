@@ -7,4 +7,4 @@
 
 echo "installing oh-my-zsh - http://ohmyz.sh"
 
-curl -L https://raw.githubusercontent.com/initcfg/oh-my-zsh/master/tools/install.sh | sh
+curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
