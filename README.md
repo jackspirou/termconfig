@@ -13,6 +13,8 @@ It is built on:
 
 It also installs:
 - google chrome
+- homebrew
+- iTerm2
 - atom
 
 # ScreenShots
