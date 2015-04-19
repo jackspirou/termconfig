@@ -13,9 +13,9 @@ It is built on:
 
 It also installs:
 - google chrome (optional)
-- homebrew
 - iTerm2 (optional)
 - atom (optional)
+- homebrew
 - wget
 
 # ScreenShots
