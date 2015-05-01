@@ -5,4 +5,5 @@
 #   curl -sL https://raw.githubusercontent.com/initcgf/yosemite/master/restart.sh | bash
 #
 
-echo "restarting processes, applications, and machine"
+echo "restarting processes, and applications"
+echo "except not really... just a blank file right now..."

@@ -26,3 +26,45 @@ do
           ;;
    esac
 done
+
+# Configure Keyboard
+curl -sL https://raw.githubusercontent.com/initcgf/yosemite/master/config_keyboard.sh | bash
+
+# Configure Trackpad
+curl -sL https://raw.githubusercontent.com/initcgf/yosemite/master/config_trackpad.sh | bash
+
+# Configure Scroll
+curl -sL https://raw.githubusercontent.com/initcgf/yosemite/master/config_scroll.sh | bash
+
+# Configure Hidden Files
+curl -sL https://raw.githubusercontent.com/initcgf/yosemite/master/config_hidden.sh | bash
+
+# Configure Extensions
+curl -sL https://raw.githubusercontent.com/initcgf/yosemite/master/config_extensions.sh | bash
+
+# Configure Finder
+curl -sL https://raw.githubusercontent.com/initcgf/yosemite/master/config_finder.sh | bash
+
+# Configure Dock
+curl -sL https://raw.githubusercontent.com/initcgf/yosemite/master/config_dock.sh | bash
+
+# Install Inconsolata Font
+curl -sL https://raw.githubusercontent.com/initcgf/yosemite/master/install_inconsolata.sh | bash
+
+# Install Solarized Terminal Theme
+curl -sL https://raw.githubusercontent.com/initcgf/yosemite/master/install_solarized.sh | bash
+
+# Install oh-my-zsh
+curl -sL https://raw.githubusercontent.com/initcgf/yosemite/master/install_oh-my-zsh.sh | bash
+
+# Configure oh-my-zsh
+curl -sL https://raw.githubusercontent.com/initcgf/yosemite/master/config_oh-my-zsh.sh | bash
+
+# Configure initcfg-zsh.theme
+curl -sL https://raw.githubusercontent.com/initcgf/yosemite/master/config_zsh-theme.sh | bash
+
+# Configure terminal
+curl -sL https://raw.githubusercontent.com/initcgf/yosemite/master/config_terminal.sh | bash
+
+# Restart
+curl -sL https://raw.githubusercontent.com/initcgf/yosemite/master/restart.sh | bash
