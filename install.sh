@@ -16,12 +16,15 @@ for arg in "$@"
 do
     case $arg in
         "chrome" )
+          # Install Chrome
           curl -sL https://raw.githubusercontent.com/initcgf/yosemite/master/install_chrome.sh | bash
           ;;
         "iterm" )
+          # Install iTerm2
           curl -sL https://raw.githubusercontent.com/initcgf/yosemite/master/install_iterm2.sh | bash
           ;;
         "atom" )
+          # Install Atom
           curl -sL https://raw.githubusercontent.com/initcgf/yosemite/master/install_atom.sh | bash
           ;;
    esac
