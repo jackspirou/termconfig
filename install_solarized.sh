@@ -9,7 +9,7 @@ echo "installing solarized theme - http://ethanschoonover.com/solarized"
 
 wget http://ethanschoonover.com/solarized/files/solarized.zip -P ~/Downloads/
 open ~/Downloads/solarized.zip
-# open ~/Downloads/solarized/osx-terminal.app-colors-solarized/xterm-256color/Solarized\ Dark\ xterm-256color.terminal
+open ~/Downloads/solarized/osx-terminal.app-colors-solarized/xterm-256color/Solarized\ Dark\ xterm-256color.terminal
 
 # Use a modified version of the Solarized Dark theme by default in Terminal.app
 osascript <<EOD
@@ -26,8 +26,7 @@ tell application "Terminal"
 	(*
 		Open the custom theme so that it gets added to the list of available terminal themes
 		note: this will open two additional terminal windows.
-	*)
-  do shell script "open '~/Downloads/solarized/osx-terminal.app-colors-solarized/xterm-256color/" & themeName & ".terminal'"
+  *)
 
 	(* Wait a little bit to ensure that the custom theme is added. *)
 	delay 1
