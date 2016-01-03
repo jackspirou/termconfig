@@ -5,10 +5,12 @@ Termconfig configures your terminal to look like this:
 
 ![](images/screenshot-no-command.png)
 
+Termconfig was inspired by this [tutsplus](tutsplus.com) post: [how-to-customize-your-command-prompt](http://code.tutsplus.com/tutorials/how-to-customize-your-command-prompt--net-24083)
+
 It is a combination of:
 - [zsh](http://www.zsh.org/)
-- [oh-my-zsh](http://ohmyz.sh/)
 - [solarized](http://ethanschoonover.com/solarized)
+- [oh-my-zsh](http://ohmyz.sh/)
 - [iconsolata](https://www.google.com/fonts/specimen/Inconsolata)
 
 It installs:
