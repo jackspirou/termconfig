@@ -2,7 +2,7 @@
 
 #
 # install:
-#   curl -sL https://raw.githubusercontent.com/jackspirou/termconfig/mac/yosemite/master/restart.sh | bash
+#   curl -sL https://raw.githubusercontent.com/jackspirou/termconfig/master/mac/yosemite/restart.sh | bash
 #
 
 echo "restarting processes, and applications"

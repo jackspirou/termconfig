@@ -2,7 +2,7 @@
 
 #
 # install:
-#   curl -sL https://raw.githubusercontent.com/jackspirou/termconfig/mac/yosemite/master/install_homebrew.sh | bash
+#   curl -sL https://raw.githubusercontent.com/jackspirou/termconfig/master/mac/yosemite/install_homebrew.sh | bash
 #
 
 echo "installing homebrew - http://brew.sh"

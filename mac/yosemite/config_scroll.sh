@@ -2,7 +2,7 @@
 
 #
 # install:
-#   curl -sL https://raw.githubusercontent.com/jackspirou/termconfig/mac/yosemite/master/config_scroll.sh | bash
+#   curl -sL https://raw.githubusercontent.com/jackspirou/termconfig/master/mac/yosemite/config_scroll.sh | bash
 #
 
 echo "configuring scroll"

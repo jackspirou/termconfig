@@ -2,7 +2,7 @@
 
 #
 # install:
-#   curl -sL https://raw.githubusercontent.com/jackspirou/termconfig/mac/yosemite/master/config_zsh-theme.sh | bash
+#   curl -sL https://raw.githubusercontent.com/jackspirou/termconfig/master/mac/yosemite/config_zsh-theme.sh | bash
 #
 
 echo "configuring initcfg zsh-theme"

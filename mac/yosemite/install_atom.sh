@@ -2,7 +2,7 @@
  
 #
 # install:
-#   curl -sL https://raw.githubusercontent.com/jackspirou/termconfig/mac/yosemite/master/install_atom.sh | bash
+#   curl -sL https://raw.githubusercontent.com/jackspirou/termconfig/master/mac/yosemite/install_atom.sh | bash
 #
 
 echo "installing atom - https://atom.io"

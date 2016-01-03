@@ -2,7 +2,7 @@
 
 #
 # install:
-#   curl -sL https://raw.githubusercontent.com/jackspirou/termconfig/mac/yosemite/master/install_oh-my-zsh.sh | bash
+#   curl -sL https://raw.githubusercontent.com/jackspirou/termconfig/master/mac/yosemite/install_oh-my-zsh.sh | bash
 #
 
 echo "installing oh-my-zsh - http://ohmyz.sh"
