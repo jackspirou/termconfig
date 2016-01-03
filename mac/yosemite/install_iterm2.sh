@@ -2,7 +2,7 @@
 
 #
 # install:
-#   curl -sL https://raw.githubusercontent.com/initcgf/yosemite/master/install_iterm2.sh | bash
+#   curl -sL https://raw.githubusercontent.com/jackspirou/termconfig/mac/yosemite/master/install_iterm2.sh | bash
 #
 
 echo "installing iTerm2 - http://iterm2.com"

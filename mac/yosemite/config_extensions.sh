@@ -2,7 +2,7 @@
 
 #
 # install:
-#   curl -sL https://raw.githubusercontent.com/initcgf/yosemite/master/config_extensions.sh | bash
+#   curl -sL https://raw.githubusercontent.com/jackspirou/termconfig/mac/yosemite/master/config_extensions.sh | bash
 #
 
 echo "configuring extensions"
