@@ -3,7 +3,7 @@ termconfig
 
 Termconfig configures your terminal to look like this:
 
-![](https://raw.githubusercontent.com/termconfig/master/images/screenshot-no-command.png)
+![](images/screenshot-no-command.png)
 
 It is built on:
 - zsh
@@ -22,15 +22,15 @@ It can install:
 
 # ScreenShots
 
-![](https://raw.githubusercontent.com/termconfig/master/images/screenshot-battery-full.png)
+![](images/screenshot-battery-full.png)
 
-![](https://raw.githubusercontent.com/termconfig/master/images/screenshot-master-red.png)
+![](images/screenshot-master-red.png)
 
-![](https://raw.githubusercontent.com/termconfig/master/images/screenshot-untracked-files.png)
+![](images/screenshot-untracked-files.png)
 
-![](https://raw.githubusercontent.com/termconfig/master/images/screenshot-add-files.png)
+![](images/screenshot-add-files.png)
 
-![](https://raw.githubusercontent.com/termconfig/master/images/screenshot-no-command.png)
+![](images/screenshot-no-command.png)
 
 
 Sources, Vendors, & Inspiration:
