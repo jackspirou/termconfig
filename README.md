@@ -1,5 +1,5 @@
 termconfig
-=======
+==========
 
 Termconfig configures your terminal to look like this:
 

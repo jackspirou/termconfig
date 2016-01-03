@@ -5,7 +5,7 @@
 #   curl -sL https://raw.githubusercontent.com/jackspirou/termconfig/master/mac/yosemite/install_inconsolata.sh | bash
 #
 
-echo "installing inconsolata font - http://www.levien.com/type/myfonts/inconsolata.html"
+echo "installing inconsolata font - https://www.google.com/fonts/specimen/Inconsolata"
 
-wget http://www.levien.com/type/myfonts/Inconsolata.otf -P ~/Downloads/
-open ~/Downloads/Inconsolata.otf
+wget https://github.com/jackspirou/termconfig/raw/master/fonts/ofl/inconsolata/Inconsolata-Regular.ttf -P ~/Downloads/
+open ~/Downloads/Inconsolata.ttf
