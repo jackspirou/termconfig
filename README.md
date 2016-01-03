@@ -1,6 +1,5 @@
 termconfig
 ==========
-
 Termconfig configures your terminal to look like this:
 
 ![](images/screenshot-no-command.png)

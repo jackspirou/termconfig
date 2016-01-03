@@ -5,7 +5,7 @@
 #   curl -sL https://raw.githubusercontent.com/jackspirou/termconfig/master/mac/yosemite/config_zsh-theme.sh | bash
 #
 
-echo "configuring initcfg zsh-theme"
+echo "configuring termconfig zsh-theme"
 
 if [ ! -n "$ZSH" ]; then
   ZSH=~/.oh-my-zsh
@@ -24,7 +24,7 @@ export ZSH="$ZSH"
 # Look in ~/.oh-my-zsh/themes/
 # Optionally, if you set this to "random", it'll load a random theme each
 # time that oh-my-zsh is loaded.
-ZSH_THEME="initcfg"
+ZSH_THEME="termconfig"
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"

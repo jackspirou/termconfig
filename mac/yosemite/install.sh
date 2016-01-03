@@ -7,7 +7,7 @@
 #   curl -sL https://raw.githubusercontent.com/jackspirou/termconfig/master/mac/yosemite/install.sh chrome iterm atom | bash
 #
 
-echo "bootstrapping Yosemite - https://github.com/initcng/yosemite"
+echo "Termconfig Yosemite - https://github.com/jackspirou/termconfig"
 
 curl -sL https://raw.githubusercontent.com/jackspirou/termconfig/master/mac/yosemite/install_homebrew.sh | bash
 curl -sL https://raw.githubusercontent.com/jackspirou/termconfig/master/mac/yosemite/install_wget.sh | bash
@@ -63,7 +63,7 @@ curl -sL https://raw.githubusercontent.com/jackspirou/termconfig/master/mac/yose
 # Configure oh-my-zsh
 curl -sL https://raw.githubusercontent.com/jackspirou/termconfig/master/mac/yosemite/config_oh-my-zsh.sh | bash
 
-# Configure initcfg-zsh.theme
+# Configure termconfig-zsh.theme
 curl -sL https://raw.githubusercontent.com/jackspirou/termconfig/master/mac/yosemite/config_zsh-theme.sh | bash
 
 # Configure terminal
