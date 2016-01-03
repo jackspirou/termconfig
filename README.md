@@ -5,20 +5,20 @@ Termconfig configures your terminal to look like this:
 
 ![](images/screenshot-no-command.png)
 
-It is built on:
-- zsh
-- solarized
-- oh-my-zsh
-- Iconsolata Font
+It is a combination of:
+- [zsh](http://www.zsh.org/)
+- [oh-my-zsh](http://ohmyz.sh/)
+- [solarized](http://ethanschoonover.com/solarized)
+- [iconsolata](https://www.google.com/fonts/specimen/Inconsolata)
 
 It installs:
-- homebrew (needed for terminal setup)
 - wget (needed for terminal setup)
+- homebrew (needed for terminal setup)
 
 It can install:
-- google chrome (optional)
-- iTerm2 (optional)
 - atom (optional)
+- iTerm2 (optional)
+- google chrome (optional)
 
 # ScreenShots
 
